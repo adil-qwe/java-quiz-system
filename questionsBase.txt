@@ -1,0 +1,155 @@
+Java is a:
+Object-Oriented,Procedural,Functional,Scripting
+Object-Oriented
+
+Java is a platform-independent language.
+True,False
+True
+
+Which of the following is not a Java feature?
+Platform-independent,Secure,Pointers,Object-oriented
+Pointers
+
+Java supports multiple inheritance through classes.
+True,False
+False
+
+Which keyword is used to define a constant variable in Java?
+const,static,final,define
+final
+
+Java uses pointers for memory management.
+True,False
+False
+
+Which data type is used to store a single character in Java?
+char,String,int,byte
+char
+
+A Java interface can extend multiple interfaces.
+True,False
+True
+
+A Java class can extend multiple classes.
+True,False
+False
+
+Which keyword is used for inheritance in Java?
+extends,implements,super,this
+extends
+
+A constructor in Java must always have a return type.
+True,False
+False
+
+Which collection allows duplicate values?
+Set,List,Map,None of the above
+List
+
+Which of these is a wrapper class?
+int,char,Integer,float
+Integer
+
+An abstract class can have both abstract and concrete methods.
+True,False
+True
+
+Which of these is not a valid Java access modifier?
+public,protected,private,package
+package
+
+Java supports operator overloading.
+True,False
+False
+
+What is the default value of a boolean in Java?
+true,false,0,null
+false
+
+Which of the following is not a Java keyword?
+static,this,void,string
+string
+
+The 'super' keyword is used to access the parent class constructor.
+True,False
+True
+
+Which statement is used to exit from a loop?
+break,continue,exit,return
+break
+
+A Java interface can have default methods.
+True,False
+True
+
+The 'this' keyword refers to the current instance of a class.
+True,False
+True
+
+Which Java keyword is used to prevent method overriding?
+static,final,private,abstract
+final
+
+An instance variable can be declared inside a method.
+True,False
+False
+
+What is the size of an int in Java?
+16 bits,32 bits,64 bits,128 bits
+32 bits
+
+A class declared as 'final' can be extended.
+True,False
+False
+
+Which Java class is used for input handling?
+Scanner,BufferReader,InputReader,ConsoleReader
+Scanner
+
+Java's main method must be declared as 'public static void main(String args[])'.
+True,False
+True
+
+Which exception is thrown when dividing by zero?
+ArithmeticException,NullPointerException,IOException,ClassNotFoundException
+ArithmeticException
+
+All exceptions in Java must be caught or declared to be thrown.
+True,False
+False
+
+Which keyword is used to create an instance of a class?
+instance,new,create,class
+new
+
+A static block executes before the main method.
+True,False
+True
+
+Which of these is a valid Java identifier?
+123name,_variable,class,new
+_variable
+
+Which of these statements is correct about a constructor?
+It must have a return type,It can be final,It can be overloaded,It cannot be private
+It can be overloaded
+
+An abstract class cannot have a constructor.
+True,False
+False
+
+Which Java feature allows multiple methods with the same name but different parameters?
+Polymorphism,Encapsulation,Abstraction,Inheritance
+Polymorphism
+
+A Java method can be both static and abstract.
+True,False
+False
+
+Which of these is an unchecked exception?
+IOException,SQLException,ArithmeticException,ClassNotFoundException
+ArithmeticException
+
+Java uses pass-by-reference for primitive data types.
+True,False
+False
